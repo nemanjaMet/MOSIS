@@ -1,0 +1,2 @@
+Nije uradjeno disable-ovanje dugmeta za setovanje koordinata, 
+ako se to i trazilo. Ovo ostalo je valjda sve odradjeno!!!

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyPlaces</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_map">Show map</string>
+    <string name="new_place">New place</string>
+    <string name="my_places_list">My places</string>
+    <string name="about">About</string>
+    <string name="about_text">
+        <i>My places</i> is the application that will help you to remember characteristics and locations of your favorites places.
+        It will be able to show your places on map and enable you to share them with your friends. Each week this application will be better and better
+        and you will earn <i>points</i> from your teaching assistant.
+    </string>
+    <string name="ok">OK</string>
+    <string name="title_activity_my_places_list">MyPlacesList</string>
+    <string name="title_activity_edit_my_place">EditMyPlaceActivity</string>
+    <string name="editmyplace_name_label">Name:</string>
+    <string name="editmyplace_desc_label">Description:</string>
+    <string name="editmyplace_lat_label">Latitude:</string>
+    <string name="editmyplace_lon_label">Longitude:</string>
+    <string name="editmyplace_location_label">Get location</string>
+    <string name="editmyplace_cancel_label">Cancel</string>
+    <!--<string name="editmyplace_add_label">Add</string>-->
+    <string name="title_activity_view_my_place">ViewMyPlaceActivity</string>
+    <string name="viewmyplace_finished_label">OK</string>
+    <string name="title_activity_my_places_map">MyPlacesMapActivity</string>
+    <string name="myplaces_serverlist">Places available on server</string>
+    <string name="serverlist_done_label">Done</string>
+    <string name="server_list">Get Server List</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyPlacesList">
+
+    <item android:id="@+id/show_map_item" android:title="@string/show_map"
+        android:orderInCategory="100" app:showAsAction="ifRoom" android:icon="@drawable/ic_action_map"/>
+    <item android:id="@+id/new_place_item" android:title="@string/new_place"
+        android:orderInCategory="100" app:showAsAction="ifRoom" android:icon="@drawable/ic_action_new"/>
+    <item android:id="@+id/server_list_item" android:title="@string/server_list"
+        android:orderInCategory="100" app:showAsAction="ifRoom" android:icon="@drawable/ic_action_download"/>
+    <item android:id="@+id/about_item" android:title="@string/about"
+        android:orderInCategory="100" app:showAsAction="never" android:icon="@drawable/ic_action_about"/>
+
+</menu>
